@@ -1,6 +1,5 @@
-** 
-The owners of the materials are Gonzalo Brito and Jonas Latt; this content is not maintained or supported by the Open Hackathons team.
-**
+* The owners of the materials are Gonzalo Brito and Jonas Latt; this content is not maintained or supported by the Open Hackathons team. *
+
 
 C++ HPC Tutorial
 ===
